@@ -1,2 +1,1 @@
-# OWASP-Juice-Shop-XSS-Testing
-XSS vulnerability testing on OWASP Juice Shop application....
+
