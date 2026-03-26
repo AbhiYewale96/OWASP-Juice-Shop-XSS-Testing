@@ -20,6 +20,20 @@ This project demonstrates basic Cross-Site Scripting (XSS) testing on a vulnerab
   - <img src=x onerror=alert('XSS')>
 - Observed input sanitization and encoding behavior
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/Homepage.png)
+
+### Login
+![Login](screenshots/Login.png)
+
+### XSS Payload Testing
+![Payload](screenshots/Payload1.png)
+
+### XSS Payload Testing
+![Result](screenshots/Payload2.png)
+
 ## 📊 Results
 - Application did not execute script payloads
 - Input was properly sanitized and encoded
